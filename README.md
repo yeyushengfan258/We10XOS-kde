@@ -1,6 +1,6 @@
-## Harmony KDE Theme
+## Win10XOS-Concept KDE Theme
 
-Harmony kde is a light clean theme for KDE Plasma desktop.
+Win10XOS-Concept kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -24,5 +24,6 @@ GNU GPL v3
 ![view](View-1.jpg?raw=true)
 ![view](View-2.jpg?raw=true)
 ![view](View-3.jpg?raw=true)
+![view](View-4.jpg?raw=true)
 
 

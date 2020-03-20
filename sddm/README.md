@@ -1,5 +1,5 @@
 
-Harmony sddm theme for KDE Plasma desktop.
+Win10XOS-Concept sddm theme for KDE Plasma desktop.
 
 ## Installation
 

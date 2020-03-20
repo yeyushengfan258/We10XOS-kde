@@ -17,4 +17,4 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Win10XOS-Concept-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1356760,kns://plasma-themes.knsrc/api.kde-look.org/1356763,kns://aurorae.knsrc/api.kde-look.org/1356759,kns://icons.knsrc/api.kde-look.org/1348081,kns://wallpaper.knsrc/api.kde-look.org/1356765,kns://sddmtheme.knsrc/api.kde-look.org/1356764
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1368852,kns://plasma-themes.knsrc/api.kde-look.org/1368853,kns://aurorae.knsrc/api.kde-look.org/1368851,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1368857,kns://sddmtheme.knsrc/api.kde-look.org/1368854
