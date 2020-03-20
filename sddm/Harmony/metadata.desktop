@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Harmony
+Description=Harmony theme for KDE Plasma
+Author=yeyushengfan258
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/yeyushengfan258/Harmony-kde
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=yeyushengfan258@aliyun.com
+Theme-Id=Harmony
+Theme-API=2.0
