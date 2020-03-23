@@ -1,5 +1,5 @@
 
-Win10XOS-Concept sddm theme for KDE Plasma desktop.
+We10XOS-kde sddm theme for KDE Plasma desktop.
 
 ## Installation
 

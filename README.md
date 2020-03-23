@@ -1,6 +1,6 @@
-## Win10XOS-Concept KDE Theme
+## We10XOS-kde KDE Theme
 
-Win10XOS-Concept kde is a light clean theme for KDE Plasma desktop.
+We10XOS-kde kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
