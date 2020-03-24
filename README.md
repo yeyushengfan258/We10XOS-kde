@@ -1,6 +1,6 @@
-## We10XOS-kde KDE Theme
+## We10XOS KDE Theme
 
-We10XOS-kde kde is a light clean theme for KDE Plasma desktop.
+We10XOS kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

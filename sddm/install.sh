@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp -ur We10XOS-kde /usr/share/sddm/themes
+cp -ur We10XOS /usr/share/sddm/themes
 
 echo "Install finished..."

@@ -2,19 +2,19 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=We10XOS-kde
+ColorScheme=We10XOS
 
 [kdeglobals][Icons]
 Theme=We10X
 
 [plasmarc][Theme]
-name=We10XOS-kde
+name=We10XOS
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__We10XOS-kde
+theme=__aurorae__svg__We10XOS
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

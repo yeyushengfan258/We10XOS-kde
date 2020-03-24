@@ -1,5 +1,5 @@
 
-We10XOS-kde sddm theme for KDE Plasma desktop.
+We10XOS sddm theme for KDE Plasma desktop.
 
 ## Installation
 

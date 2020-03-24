@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=We10XOS-kde
-Comment=We10XOS-kde theme for kde plasma
+Name=We10XOS
+Comment=We10XOS theme for kde plasma
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 
@@ -12,9 +12,9 @@ X-KDE-PluginInfo-Author=yeyushengfan258
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
 X-KDE-PluginInfo-License=GPL3.0
-X-KDE-PluginInfo-Name=com.github.yeyushengfan258.We10XOS-kde
+X-KDE-PluginInfo-Name=com.github.yeyushengfan258.We10XOS
 X-KDE-PluginInfo-Version=
-X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/We10XOS-kde-kde
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/We10XOS-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1368852,kns://plasma-themes.knsrc/api.kde-look.org/1368853,kns://aurorae.knsrc/api.kde-look.org/1368851,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1368857,kns://sddmtheme.knsrc/api.kde-look.org/1368854

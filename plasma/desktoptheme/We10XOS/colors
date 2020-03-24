@@ -103,8 +103,8 @@ ForegroundPositive=1,162,153
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=Win10XOS-Concept
-Name=We10XOS-kde
+ColorScheme=We10XOS
+Name=We10XOS
 shadeSortColumn=true
 
 [KDE]

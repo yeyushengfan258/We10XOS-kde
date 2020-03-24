@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=We10XOS-kde
-Description=We10XOS-kde theme for KDE Plasma
+Name=We10XOS
+Description=We10XOS theme for KDE Plasma
 Author=yeyushengfan258
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/yeyushengfan258/We10XOS-kde-kde
+Website=https://github.com/yeyushengfan258/We10XOS-kde
 Screenshot=Preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=yeyushengfan258@outlook.com
-Theme-Id=We10XOS-kde
+Theme-Id=We10XOS
 Theme-API=2.0
