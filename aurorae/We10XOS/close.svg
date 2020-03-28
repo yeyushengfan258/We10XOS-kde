@@ -373,9 +373,9 @@
      inkscape:window-height="1007"
      id="namedview27"
      showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-2.6839854"
-     inkscape:cy="-6.6064711"
+     inkscape:zoom="4"
+     inkscape:cx="-74.338135"
+     inkscape:cy="-13.000365"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -443,7 +443,7 @@
        id="rect6348"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
     <rect
-       ry="0"
+       ry="5"
        y="27"
        x="0"
        height="22"
@@ -506,7 +506,7 @@
        height="22"
        x="0"
        y="27"
-       ry="0" />
+       ry="5.0104079" />
     <g
        transform="translate(27.282485,27.282486)"
        id="g1051">

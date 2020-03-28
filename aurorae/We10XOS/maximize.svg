@@ -71,9 +71,9 @@
      inkscape:window-height="1007"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="5.6568539"
-     inkscape:cx="-4.9422709"
-     inkscape:cy="3.9277235"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="-29.526141"
+     inkscape:cy="-28.717906"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -164,7 +164,7 @@
          height="22"
          x="-25"
          y="27"
-         ry="0" />
+         ry="5" />
       <path
          id="path845"
          d="M -20,32 V 44 H -8 V 32 Z m 1,1 h 10 v 10 h -10 z"
@@ -185,7 +185,7 @@
        transform="translate(25)"
        id="g899">
       <rect
-         ry="0"
+         ry="5"
          y="57"
          x="-25"
          height="22"
