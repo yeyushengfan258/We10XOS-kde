@@ -11,11 +11,12 @@ In this repository you'll find:
 - Plasma Look-and-Feel Settings
 
 - Added a desktop layout, just like the desktop layout in the figure, people who need can use
+  
   Usage:
   Replacement:/.config/plasma-org.kde.plasma.desktop-appletsrc
 
 - Prompt
-    Before replacement, save the current desktop , to avoid losses
+  Before replacement, save the current desktop , to avoid losses
   
 
 ## Installation
