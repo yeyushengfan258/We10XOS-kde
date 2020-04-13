@@ -14,7 +14,7 @@ In this repository you'll find:
   Usage:
   Replacement:/.config/plasma-org.kde.plasma.desktop-appletsrc
 
-  - Prompt
+- Prompt
     Before replacement, save the current desktop , to avoid losses
   
 
