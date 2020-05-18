@@ -20,6 +20,11 @@ In this repository you'll find:
   
   Before replacement, save the current desktop , to avoid losses
   
+ 
+ - Fix lock screen black screen problem
+ -  Add wallpapers and configuration files
+    After selecting your favorite color wallpaper, remove the suffix color abbreviation and install it
+  
 
 ## Installation
 

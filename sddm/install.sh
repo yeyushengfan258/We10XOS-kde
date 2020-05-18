@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 ROOT_UID=0
 THEME_DIR="/usr/share/sddm/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
