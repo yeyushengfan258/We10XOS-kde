@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="manjaro.svg"
    version="1.1"
    height="22"
@@ -16,17 +16,17 @@
   <sodipodi:namedview
      inkscape:current-layer="svg"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="36"
      inkscape:window-x="0"
-     inkscape:cy="7.2065393"
-     inkscape:cx="-52.35224"
-     inkscape:zoom="5.6568543"
+     inkscape:cy="-15.024698"
+     inkscape:cx="-19.066893"
+     inkscape:zoom="11.313709"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
      showgrid="true"
      id="namedview15"
-     inkscape:window-height="1000"
+     inkscape:window-height="962"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -35,7 +35,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#c8c8c8">
+     pagecolor="#c8c8c8"
+     inkscape:document-rotation="0">
     <inkscape:grid
        id="grid840"
        type="xygrid" />
@@ -48,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,8 +92,8 @@
        y="-39" />
     <path
        sodipodi:nodetypes="ccccccccccccccccc"
-       style="fill:#eaeaea;fill-opacity:1;stroke-width:0.0273438"
-       d="M -3,-37 V -9 H 5 V -29.125 H 15 V -37 Z M 7,-26.9375 V -9 h 8 V -26.9375 Z M 17,-37 v 28 h 8 v -28 z"
+       style="fill:#eaeaea;fill-opacity:1;stroke-width:0.0234375"
+       d="m -1,-35 v 24 h 7 v -17 h 8 v -7 z m 9,9 v 15 h 6 v -15 z m 8,-9 v 24 h 7 v -24 z"
        p-id="13516"
        id="path856" />
   </g>
