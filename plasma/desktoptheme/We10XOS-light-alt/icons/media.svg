@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="media.svg"
    id="svg67"
    viewBox="0 0 22 22"
@@ -33,14 +33,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg67"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="44.478363"
-     inkscape:cx="19.4817"
-     inkscape:zoom="7.5853273"
+     inkscape:cy="-4.5272665"
+     inkscape:cx="-139.95651"
+     inkscape:zoom="2.6818182"
      showgrid="true"
      id="namedview69"
-     inkscape:window-height="985"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -208,90 +208,78 @@
        id="path875" />
   </g>
   <g
-     transform="translate(0.1407986,4.5997507)"
-     id="media-playback-stopped">
+     id="media-playback-paused"
+     transform="translate(-1,7)">
     <rect
        style="color:#dedede;stroke-width:1.5"
-       x="48.858952"
-       y="28.4"
-       width="22.0005"
-       height="22.0005"
-       fill="#ed1515"
-       fill-opacity="0.00392163"
-       opacity="0.01"
-       id="rect60" />
-    <g
-       id="g960"
-       transform="translate(-1.1407986,-18.599751)">
-      <circle
-         r="8.4375"
-         cy="58"
-         cx="61"
-         id="path904"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         d="m 58,55 v 6 h 6 v -6 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect914" />
-    </g>
-  </g>
-  <g
-     transform="translate(0.1412506,4.5997507)"
-     id="media-playback-playing">
-    <rect
-       style="color:#dedede;stroke-width:1.5"
-       x="24.8585"
-       y="28.4"
-       width="22.0005"
-       height="22.0005"
-       fill="#ed1515"
-       fill-opacity="0.00392163"
-       opacity="0.01"
-       id="rect55" />
-    <g
-       id="g956"
-       transform="translate(-1.1412506,-18.599751)">
-      <circle
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle922"
-         cx="37"
-         cy="58"
-         r="8.4375" />
-      <path
-         sodipodi:nodetypes="cccc"
-         d="m 35,55 v 6 l 4,-3 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect932" />
-    </g>
-  </g>
-  <g
-     transform="translate(0.14090031,4.5997507)"
-     id="media-playback-paused">
-    <rect
-       style="color:#dedede;stroke-width:1.5"
-       x="0.85884982"
-       y="28.4"
+       x="0.99975014"
+       y="27.99975"
        width="22.0005"
        height="22.0005"
        fill="#ed1515"
        fill-opacity="0.00392163"
        opacity="0.01"
        id="rect50" />
-    <g
-       id="g952"
-       transform="translate(-0.14090031,-18.599751)">
-      <circle
-         r="8.4375"
-         cy="58"
-         cx="12"
-         id="circle936"
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccc"
-         d="m 9,55 v 6 h 2 v -6 z m 4,0 v 6 h 2 v -6 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect946" />
-    </g>
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       d="m 9,36 v 6 h 2 v -6 z m 4,0 v 6 h 2 v -6 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle901"
+       cx="12"
+       cy="39"
+       r="8" />
+  </g>
+  <g
+     id="media-playback-playing"
+     transform="translate(-1,7)">
+    <rect
+       style="color:#dedede;stroke-width:1.5"
+       x="24.99975"
+       y="27.99975"
+       width="22.0005"
+       height="22.0005"
+       fill="#ed1515"
+       fill-opacity="0.00392163"
+       opacity="0.01"
+       id="rect55" />
+    <path
+       sodipodi:nodetypes="cccc"
+       d="m 34,36 v 6 l 4,-3 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect932" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle912"
+       cx="36"
+       cy="39"
+       r="8" />
+  </g>
+  <g
+     id="media-playback-stopped"
+     transform="translate(-1,7)">
+    <rect
+       style="color:#dedede;stroke-width:1.5"
+       x="48.999752"
+       y="27.99975"
+       width="22.0005"
+       height="22.0005"
+       fill="#ed1515"
+       fill-opacity="0.00392163"
+       opacity="0.01"
+       id="rect60" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="m 57,36 v 6 h 6 v -6 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect914" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle919"
+       cx="60"
+       cy="39"
+       r="8" />
   </g>
 </svg>
