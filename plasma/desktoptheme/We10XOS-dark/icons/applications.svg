@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="applications.svg"
    id="svg19"
    viewBox="0 0 32 32"
@@ -31,11 +31,11 @@
      inkscape:snap-nodes="true"
      inkscape:current-layer="svg19"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="14.013988"
-     inkscape:cx="14.747303"
-     inkscape:zoom="7.375"
+     inkscape:cy="18.72286"
+     inkscape:cx="-31.019909"
+     inkscape:zoom="29.5"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
@@ -43,7 +43,7 @@
      inkscape:snap-bbox="true"
      showgrid="true"
      id="namedview21"
-     inkscape:window-height="985"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -2511,38 +2511,22 @@
        ry="0"
        style="opacity:0;stroke-width:1.375;paint-order:fill markers stroke"
        id="rect1619" />
-    <rect
-       ry="1"
-       y="14"
-       x="-33"
-       height="6"
-       width="6"
+    <path
        id="rect1621"
-       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
        style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -32 14 C -32.554 14 -33 14.446 -33 15 L -33 19 C -33 19.554 -32.554 20 -32 20 L -28 20 C -27.446 20 -27 19.554 -27 19 L -27 15 C -27 14.446 -27.446 14 -28 14 L -32 14 z M -32 15 L -28 15 L -28 19 L -32 19 L -32 15 z " />
+    <path
        id="rect1623"
-       width="6"
-       height="6"
-       x="-24"
-       y="14"
-       ry="1" />
-    <rect
        style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -24,14 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 4 v 4 h -4 z" />
+    <path
        id="rect1625"
-       width="6"
-       height="6"
-       x="-33"
-       y="22"
-       ry="1" />
-    <rect
-       ry="1"
-       y="22"
-       x="-24"
-       height="6"
-       width="6"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -32 22 C -32.554 22 -33 22.446 -33 23 L -33 27 C -33 27.554 -32.554 28 -32 28 L -28 28 C -27.446 28 -27 27.554 -27 27 L -27 23 C -27 22.446 -27.446 22 -28 22 L -32 22 z M -32 23 L -28 23 L -28 27 L -32 27 L -32 23 z " />
+    <path
        id="rect1627"
-       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -24,22 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 4 v 4 h -4 z" />
   </g>
   <g
      id="applications-other">
