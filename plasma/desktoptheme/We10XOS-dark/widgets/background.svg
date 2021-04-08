@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="935"
+     inkscape:window-height="936"
      id="namedview228"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -479,7 +479,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        id="rect42"
        height="32"
        width="6"
@@ -509,7 +509,7 @@
          id="path47" />
     </g>
     <path
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        d="M 19 6 C 15.676 6 13 8.676 13 12 L 17 12 L 18 12 L 19 12 L 19 11 L 19 7 L 19 6 z "
        transform="translate(0,904.36)"
        id="path55" />
@@ -518,7 +518,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        id="rect69"
        height="32"
        width="6"
@@ -539,7 +539,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        id="rect96"
        height="32"
        width="6"
@@ -560,7 +560,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        id="rect101"
        height="32"
        width="6"
@@ -586,7 +586,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;fill:#323232;opacity:0.5;fill-opacity:1"
+       style="color:#eff0f1;fill:#000000;opacity:0.7;fill-opacity:1"
        id="rect108"
        height="32"
        width="32"
