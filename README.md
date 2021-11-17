@@ -1,6 +1,6 @@
-## We10XOS KDE Theme
+## ArcStarry-dark KDE Theme
 
-We10XOS kde is a light clean theme for KDE Plasma desktop.
+ArcStarry-dark kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
