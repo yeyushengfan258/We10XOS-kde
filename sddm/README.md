@@ -1,5 +1,5 @@
 
-ArcStarry-dark sddm theme for KDE Plasma desktop.
+We10XOS sddm theme for KDE Plasma desktop.
 
 ## Installation
 

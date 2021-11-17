@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="76"
+   height="66"
+   version="1.1"
+   id="svg68"
+   sodipodi:docname="slider.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs72" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="985"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="6.2272727"
+     inkscape:cx="37.45868"
+     inkscape:cy="24.41791"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg68" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     stroke-width=".91667"
+     id="g42">
+    <g
+       id="horizontal-slider-handle"
+       transform="matrix(.75 0 0 .75 -18.75 28)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect4" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle6"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+    <g
+       id="horizontal-slider-hover"
+       transform="matrix(.75 0 0 .75 6.25 27)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect9" />
+      <circle
+         cx="41"
+         cy="20"
+         r="16"
+         fill="#eaeaea"
+         opacity=".2"
+         id="circle11"
+         style="fill:#f5f5f5;fill-opacity:1" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle13"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+    <g
+       id="horizontal-slider-focus"
+       transform="matrix(.75 0 0 .75 31.25 28)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect16" />
+      <circle
+         cx="41"
+         cy="20"
+         r="16"
+         fill="#eaeaea"
+         opacity=".3"
+         id="circle18"
+         style="fill:#f5f5f5;fill-opacity:1" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle20"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+    <g
+       id="vertical-slider-handle"
+       transform="matrix(.75 0 0 .75 -18.75 -3)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect23" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle25"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+    <g
+       id="vertical-slider-hover"
+       transform="matrix(.75 0 0 .75 6.25 -3)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect28" />
+      <circle
+         cx="41"
+         cy="20"
+         r="16"
+         fill="#eaeaea"
+         opacity=".2"
+         id="circle30"
+         style="fill:#f5f5f5;fill-opacity:1" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle32"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+    <g
+       id="vertical-slider-focus"
+       transform="matrix(.75 0 0 .75 31.25 -3)">
+      <rect
+         x="25"
+         y="4"
+         width="32"
+         height="32"
+         opacity="0"
+         id="rect35" />
+      <circle
+         cx="41"
+         cy="20"
+         r="16"
+         fill="#eaeaea"
+         opacity=".3"
+         id="circle37"
+         style="fill:#f5f5f5;fill-opacity:1" />
+      <circle
+         cx="41"
+         cy="20"
+         r="8"
+         fill="#eaeaea"
+         id="circle39"
+         style="fill:#f5f5f5;fill-opacity:1" />
+    </g>
+  </g>
+  <path
+     id="groove-top"
+     class="ColorScheme-Text"
+     d="m7-20v1h1v-1z"
+     opacity=".3" />
+  <path
+     id="groove-topleft"
+     class="ColorScheme-Text"
+     d="m6-20.02c-0.56073 0-1 0.44793-1 1.0197h1z"
+     opacity=".3" />
+  <rect
+     id="hint-tile-center"
+     x="-1"
+     y="-24"
+     width="2"
+     height="2"
+     rx="0"
+     ry="2"
+     fill="#4e9a06" />
+  <path
+     id="groove-topright"
+     class="ColorScheme-Text"
+     d="m10-19c0-0.51627-0.43927-0.92071-1-0.92071v0.92071z"
+     opacity=".3" />
+  <g
+     id="g54">
+    <path
+       id="groove-bottom"
+       class="ColorScheme-Text"
+       d="m7-15v-1h1v1z"
+       opacity=".3" />
+    <path
+       id="groove-bottomleft"
+       class="ColorScheme-Text"
+       d="m6-15c-0.49777 0-0.8877-0.43927-0.8877-1h0.8877z"
+       opacity=".3" />
+    <path
+       id="groove-bottomright"
+       class="ColorScheme-Text"
+       d="m10-16c0 0.56073-0.43927 1-1 1v-1z"
+       opacity=".3" />
+    <path
+       id="groove-center"
+       class="ColorScheme-Text"
+       d="m7-18v1h1v-1z"
+       opacity=".3" />
+    <path
+       id="groove-left"
+       class="ColorScheme-Text"
+       d="m5-18v1h1v-1z"
+       opacity=".3" />
+    <path
+       id="groove-right"
+       class="ColorScheme-Text"
+       d="m9-18v1h1v-1z"
+       opacity=".3" />
+  </g>
+  <g
+     fill="#eaeaea"
+     id="g65"
+     style="fill:#f5f5f5;fill-opacity:1">
+    <path
+       id="groove-highlight-top"
+       class="ColorScheme-ButtonHover"
+       d="m25-20v1h1v-1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-topleft"
+       class="ColorScheme-ButtonHover"
+       d="m24-20c-0.56073 0-1 0.43927-1 1h1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-topright"
+       class="ColorScheme-ButtonHover"
+       d="m28-19c0-0.56073-0.43927-1-1-1v1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-bottom"
+       class="ColorScheme-ButtonHover"
+       d="m25-15v-1h1v1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-bottomleft"
+       class="ColorScheme-ButtonHover"
+       d="m24-15c-0.56987 0-1.0163-0.43927-1.0163-1h1.0163z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-bottomright"
+       class="ColorScheme-ButtonHover"
+       d="m28.04-16c0 0.56073-0.45667 1-1.0396 1v-1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-center"
+       class="ColorScheme-ButtonHover"
+       d="m25-18v1h1v-1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-left"
+       class="ColorScheme-ButtonHover"
+       d="m23-18v1h1v-1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+    <path
+       id="groove-highlight-right"
+       class="ColorScheme-ButtonHover"
+       d="m27-18v1h1v-1z"
+       style="fill:#f5f5f5;fill-opacity:1" />
+  </g>
+  <circle
+     id="hint-handle-size"
+     cx="50.955"
+     cy="-15.313"
+     r="12"
+     fill="#ff2a2a" />
+</svg>
