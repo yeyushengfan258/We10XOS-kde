@@ -224,7 +224,7 @@
        y="-1.91"
        id="rect37" />
     <circle
-       style="fill:#00a0d7;fill-opacity:1"
+       style="fill:#00beff;fill-opacity:1"
        cx="-32"
        cy="8"
        r="8"
@@ -242,7 +242,7 @@
        y="-1.91"
        id="rect42" />
     <path
-       style="fill:#00a0d7;fill-opacity:1"
+       style="fill:#00beff;fill-opacity:1"
        transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)"
        d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"
        id="path44" />

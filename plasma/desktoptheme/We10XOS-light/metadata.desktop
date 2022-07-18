@@ -1,13 +1,15 @@
 [Desktop Entry]
 Name=We10XOS-light
+Comment=We10XOS-light theme for plasma
+
 X-KDE-PluginInfo-Author=yeyushengfan258
 X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
 X-KDE-PluginInfo-Name=We10XOS-light
-X-KDE-PluginInfo-Version=
-X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/We10XOS-kde
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-License=GPL 3.0
 X-KDE-PluginInfo-EnabledByDefault=true
 
 [ContrastEffect]
@@ -18,6 +20,9 @@ saturation=1.7
 
 [Wallpaper]
 defaultWallpaperTheme=We10XOS-light
-defaultFileSuffix=.jpg
+defaultFileSuffix=.png
 defaultWidth=1920
 defaultHeight=1080
+
+[AdaptiveTransparency]
+enabled=true

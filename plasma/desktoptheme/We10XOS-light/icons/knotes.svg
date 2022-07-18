@@ -69,11 +69,11 @@
        transform="translate(-18)">
       <path
          id="rect857"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
          d="m 56,13 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 11 c 1.108,0 2,-0.892 2,-2 V 15 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 11 c 0.554,0 1,0.446 1,1 v 12 c 0,0.554 -0.446,1 -1,1 H 56 c -0.554,0 -1,-0.446 -1,-1 V 15 c 0,-0.554 0.446,-1 1,-1 z" />
       <path
          id="rect3292"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
          d="m 62,21 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.277 0.112219,0.526281 0.292969,0.707031 l 7.414062,-7.414062 C 68.526281,21.112219 68.277,21 68,21 Z" />
     </g>
   </g>
@@ -91,11 +91,11 @@
        transform="translate(31)">
       <path
          id="rect3782"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
          d="m -25,4 c -1.108,0 -2,0.892 -2,2 v 20 c 0,1.108 0.892,2 2,2 h 19 c 1.108,0 2,-0.892 2,-2 V 6 C -4,4.892 -4.892,4 -6,4 Z m 0,1 h 19 c 0.554,0 1,0.446 1,1 v 20 c 0,0.554 -0.446,1 -1,1 h -19 c -0.554,0 -1,-0.446 -1,-1 V 6 c 0,-0.554 0.446,-1 1,-1 z" />
       <path
          id="rect4106"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.537721;paint-order:stroke fill markers"
          d="m -15,16 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.277 0.112219,0.526281 0.292969,0.707031 L -4.2929688,16.292969 C -4.4737187,16.112219 -4.723,16 -5,16 Z" />
     </g>
   </g>

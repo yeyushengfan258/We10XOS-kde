@@ -31,8 +31,8 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg"
-     inkscape:cx="12.1875"
-     inkscape:cy="19.5"
+     inkscape:cx="23.3125"
+     inkscape:cy="5.75"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="1005"
@@ -116,10 +116,10 @@
        transform="translate(0,-32.99998)">
       <path
          id="rect873"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 331,564.36216 c -1.10799,0 -2,0.89201 -2,2 v 24 c 0,1.10799 0.89201,2 2,2 h 12 c 1.10799,0 2,-0.89201 2,-2 v -24 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 12 c 0.55399,0 1,0.44601 1,1 v 24 c 0,0.55399 -0.44601,1 -1,1 h -12 c -0.55399,0 -1,-0.44601 -1,-1 v -24 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1802"
          width="6"
          height="1"
@@ -143,10 +143,10 @@
        transform="translate(0,-32.99998)">
       <path
          id="rect1906"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 308,572.36216 c -0.55399,0 -1,0.44601 -1,1 v 10 c 0,0.55399 0.44601,1 1,1 h 6 c 0.55399,0 1,-0.44601 1,-1 v -10 c 0,-0.55399 -0.44601,-1 -1,-1 z m 0,1 h 6 v 10 h -6 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect2131"
          width="2"
          height="1"
@@ -170,10 +170,10 @@
        transform="translate(0,-32.99998)">
       <path
          id="rect2235"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 363,570.36216 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:4.24264;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:4.24264;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect2460"
          width="4"
          height="1"
@@ -226,10 +226,10 @@
        transform="translate(-228,-544.36216)">
       <path
          id="path7409"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 308,572.36216 c -0.55399,0 -1,0.44601 -1,1 v 10 c 0,0.55399 0.44601,1 1,1 h 6 c 0.55399,0 1,-0.44601 1,-1 v -10 c 0,-0.55399 -0.44601,-1 -1,-1 z m 0,1 h 6 v 10 h -6 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect7411"
          width="2"
          height="1"
@@ -290,10 +290,10 @@
        transform="translate(-280,-567.36216)">
       <path
          id="path7419"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 363,570.36216 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:4.24264;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:4.24264;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect7421"
          width="4"
          height="1"
@@ -317,10 +317,10 @@
        transform="translate(-246,-597.36216)">
       <path
          id="path7399"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 331,564.36216 c -1.10799,0 -2,0.89201 -2,2 v 24 c 0,1.10799 0.89201,2 2,2 h 12 c 1.10799,0 2,-0.89201 2,-2 v -24 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 12 c 0.55399,0 1,0.44601 1,1 v 24 c 0,0.55399 -0.44601,1 -1,1 h -12 c -0.55399,0 -1,-0.44601 -1,-1 v -24 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect7401"
          width="6"
          height="1"

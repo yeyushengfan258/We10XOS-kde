@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    width="144"
    height="126"
    version="1.0"
    viewBox="0 0 144 126"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata719">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="933"
+     inkscape:window-height="1001"
      id="namedview717"
      showgrid="false"
-     inkscape:zoom="4.6944035"
-     inkscape:cx="17.905403"
-     inkscape:cy="77.479211"
+     inkscape:zoom="37.555228"
+     inkscape:cx="61.509412"
+     inkscape:cy="79.629393"
      inkscape:window-x="0"
-     inkscape:window-y="52"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#323232" />
   <defs
      id="null">
     <style
@@ -886,7 +889,7 @@
        y="80"
        width="26"
        height="2"
-       style="opacity:0.98999999;fill:#00a0d7;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-4-8"
        class="ColorScheme-ButtonHover"
@@ -894,7 +897,7 @@
        y="82"
        width="26"
        height="1"
-       style="opacity:0.98999999;fill:#00a0d7;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomleft">
@@ -912,7 +915,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#00a0d7;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomright">
@@ -930,7 +933,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#00a0d7;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-top">

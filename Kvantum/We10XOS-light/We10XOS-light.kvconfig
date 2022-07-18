@@ -82,8 +82,8 @@ light.color=#ffffff
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
 mid.color=#e1e1e196
-highlight.color=#4285f4
-inactive.highlight.color=#4285f420
+highlight.color=#00beff
+inactive.highlight.color=#00beff20
 text.color=#444444
 window.text.color=#444444
 button.text.color=#444444
@@ -96,7 +96,7 @@ progress.indicator.text.color=#444444
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true
