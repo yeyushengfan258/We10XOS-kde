@@ -32,6 +32,12 @@ In this repository you'll find:
 ./install.sh
 ```
 
+## Uninstall
+
+```sh
+./uninstall.sh
+```
+
 ## License
 
 GNU GPL v3
